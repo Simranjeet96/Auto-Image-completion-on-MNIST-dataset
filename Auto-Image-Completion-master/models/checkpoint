@@ -1,0 +1,3 @@
+model_checkpoint_path: "100_epoch_model1.ckpt"
+all_model_checkpoint_paths: "100_epoch_model.ckpt"
+all_model_checkpoint_paths: "100_epoch_model1.ckpt"
